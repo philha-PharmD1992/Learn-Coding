@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+THIS IS DUC'S FIRST GIT PROJECT
+
+OMFG
+=======
+# Learn-Coding
+>>>>>>> 4823871f5f5f6150e75527927546c02eea987806
